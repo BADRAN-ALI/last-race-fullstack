@@ -213,10 +213,19 @@ Use one of the following test accounts:
 
 ## Start the Backend
 
+Open a terminal:
+
 ```bash
 cd server
 npm install
-npm start```
+npm start
+```
+
+The backend runs on:
+
+```text
+http://localhost:3001
+```
 
 ## Start the Frontend
 
@@ -225,4 +234,11 @@ Open a second terminal:
 ```bash
 cd client
 npm install
-npm run dev```
+npm run dev
+```
+
+Vite will display the frontend URL, typically:
+
+```text
+http://localhost:5173
+```
