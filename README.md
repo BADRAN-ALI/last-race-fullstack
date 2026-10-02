@@ -217,3 +217,12 @@ Use one of the following test accounts:
 cd server
 npm install
 npm start
+
+## Start the Frontend
+
+Open a second terminal:
+
+```bash
+cd client
+npm install
+npm run dev
