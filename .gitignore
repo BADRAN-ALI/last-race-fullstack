@@ -1,0 +1,14 @@
+# Dependencies — recreated by `npm install` after clone (do not commit)
+node_modules/
+
+# SQLite database file — created & seeded automatically on first server start
+server/db/*.sqlite
+server/db/*.sqlite-journal
+
+# Build output
+dist/
+client/dist/
+
+# Logs / OS
+*.log
+.DS_Store
