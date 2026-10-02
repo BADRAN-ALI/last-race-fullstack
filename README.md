@@ -77,6 +77,3 @@ app via a class on the app wrapper — toggled from the header.
 | `alice` | `password` |
 | `bob` | `password` |
 | `charlie` | `password` |
-
-### Use of AI
-AI assistance was used during development mainly for the front-end part of the project. In particular, it helped with organizing React components, improving the user interface, refining the client-side routing structure, and reviewing the interaction flow between the setup, planning, execution, result, and ranking pages. The backend logic, including the database design, API structure, authentication, route validation, and game simulation, was reviewed and understood manually. All AI suggestions were checked, adapted, and tested against the official exam requirements and the course material.
